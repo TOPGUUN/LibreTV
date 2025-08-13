@@ -28,6 +28,10 @@ const API_SITES = {
         detail: 'http://caiji.dyttzyapi.com', 
     },
     ruyi: {
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/',
+        name: '茅台资源',
+    },    
+    ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
     },
