@@ -27,7 +27,7 @@ const API_SITES = {
         name: '电影天堂资源',
         detail: 'http://caiji.dyttzyapi.com', 
     },
-    ruyi: {
+    mtzy: {
         api: 'http://caiji.maotaizy.cc/api.php/provide/vod',
         name: '茅台资源',
     },    
